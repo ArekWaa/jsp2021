@@ -1,4 +1,4 @@
-﻿tekst = "MCMLXXXVIII"
+﻿tekst = "MCMLXXXVIII"  # IIIIIIIIIIIIIL    ;)
 wynik = 0
 bezpiecznik = True
 jednosci = {
